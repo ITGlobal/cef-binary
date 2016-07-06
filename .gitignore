@@ -14,3 +14,6 @@ cef_binary_3.y.z_windows64/*
 _ReSharper*
 out
 *Thumbs.db
+
+automate-git.py
+/source/
